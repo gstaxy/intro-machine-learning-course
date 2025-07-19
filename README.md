@@ -55,52 +55,56 @@ Il est recommandé de réutiliser les deux mêmes notebooks tout au long du cour
 │   ├── Cheatsheet_Python_Scikit_Learn.pdf
 │   └── Cheatsheet_Python_Seaborn.pdf
 ├── cours
-│   ├── chapitre_0_programmation_python
+│   ├── chapitre_00_programmation_python
 │   │   ├── 0_introduction_intelligence_artificielle.pdf
 │   │   ├── 0_introduction_programmation.pdf
 │   │   └── 0_test_installation.ipynb
-│   ├── chapitre_1_mise_en_place_environnement_python
+│   ├── chapitre_01_mise_en_place_environnement_python
 │   │   ├── 1_écosystème_python_avec_anaconda.pdf
 │   │   ├── 1_écosystème_python_avec_google_colaboratory.pdf
 │   │   ├── 1_guide_installation_anaconda.pdf
 │   │   ├── 1_guide_installation_google_colaboratory.pdf
 │   │   └── 1_notebook_exploratoire.ipynb
-│   ├── chapitre_2_python_scipy
+│   ├── chapitre_02_python_scipy
 │   │   ├── 2_notebook_pratique_corrigé.ipynb
 │   │   ├── 2_notebook_pratique.ipynb
 │   │   ├── 2_notebook_théorique.ipynb
 │   │   └── 2_théorie.pdf
-│   ├── chapitre_3_charger_données
+│   ├── chapitre_03_charger_données
 │   │   ├── 3_notebook_théorique.ipynb
 │   │   ├── 3_pratique_classification_binaire_corrigé.ipynb
 │   │   ├── 3_théorie.pdf
 │   │   └── notebook_pratique_classification_binaire.ipynb
-│   ├── chapitre_4_statistiques_descriptives
+│   ├── chapitre_04_statistiques_descriptives
 │   │   ├── 4_notebook_théorique.ipynb
 │   │   ├── 4_pratique_classification_binaire_corrigé.ipynb
 │   │   └── 4_théorie.pdf
-│   ├── chapitre_5_visualisation_données
+│   ├── chapitre_05_visualisation_données
 │   │   ├── 5_notebook_théorique.ipynb
 │   │   ├── 5_pratique_classification_binaire_corrigé.ipynb
 │   │   └── 5_théorie.pdf
-│   ├── chapitre_6_traitement_données
+│   ├── chapitre_06_traitement_données
 │   │   ├── 6_notebook_théorique.ipynb
 │   │   ├── 6_pratique_classification_binaire_corrigé.ipynb
 │   │   └── 6_théorie.pdf
-│   ├── chapitre_7_sélection_variables
+│   ├── chapitre_07_sélection_variables
 │   │   ├── 7_notebook_théorique.ipynb
 │   │   ├── 7_pratique_classification_binaire_corrigé.ipynb
 │   │   └── 7_théorie.pdf
-│   ├── chapitre_8_échantillonnage
+│   ├── chapitre_08_échantillonnage
 │   │   ├── 8_notebook_théorique.ipynb
 │   │   ├── 8_pratique_classification_binaire_corrigé.ipynb
 │   │   └── 8_théorie.pdf
-│   └── chapitre_9_évaluation_algorithmes
-│       ├── 9_notebook_théorique.ipynb
-│       ├── 9_pratique_classification_binaire_corrigé.ipynb
-│       ├── 9_pratique_régression_corrigé.ipynb
-│       ├── 9_théorie.pdf
-│       └── notebook_pratique_régression.ipynb
+│   ├── chapitre_09_évaluation_algorithmes
+│   │   ├── 9_notebook_théorique.ipynb
+│   │   ├── 9_pratique_classification_binaire_corrigé.ipynb
+│   │   ├── 9_pratique_régression_corrigé.ipynb
+│   │   ├── 9_théorie.pdf
+│   │   └── notebook_pratique_régression.ipynb
+│   └── chapitre_10_algorithmes_classification
+│       ├── 10_notebook_théorique.ipynb
+│       ├── 10_pratique_classification_binaire_corrigé.ipynb
+│       └── 10_théorie.pdf
 ├── docs
 │   └── curriculum_du_cours.pdf
 ├── données
