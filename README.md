@@ -101,10 +101,16 @@ Il est recommandé de réutiliser les deux mêmes notebooks tout au long du cour
 │   │   ├── 9_pratique_régression_corrigé.ipynb
 │   │   ├── 9_théorie.pdf
 │   │   └── notebook_pratique_régression.ipynb
-│   └── chapitre_10_algorithmes_classification
-│       ├── 10_notebook_théorique.ipynb
-│       ├── 10_pratique_classification_binaire_corrigé.ipynb
-│       └── 10_théorie.pdf
+│   ├── chapitre_10_algorithmes_classification
+│   │   ├── 10_notebook_théorique.ipynb
+│   │   ├── 10_pratique_classification_binaire_corrigé.ipynb
+│   │   └── 10_théorie.pdf
+│   ├── chapitre_11_algorithmes_régression
+│   │   ├── 11_notebook_théorique.ipynb
+│   │   └── 11_théorie.pdf
+│   └── chapitre_12_
+│       ├── 12_notebook_théorique.ipynb
+│       └── 12_théorie.pdf
 ├── docs
 │   └── curriculum_du_cours.pdf
 ├── données
